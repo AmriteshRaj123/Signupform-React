@@ -1,0 +1,19 @@
+.formbox{
+    width: 300px;
+    height:320px;
+    margin: auto;
+    margin-top: 12%;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom right, rgb(230, 87, 203), rgb(144, 144, 34));
+}
+h1{
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 120px;
+    margin-left: 60px;
+    font-weight: 900;
+}
